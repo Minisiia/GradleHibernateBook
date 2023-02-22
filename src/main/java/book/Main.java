@@ -13,7 +13,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
         AuthorHelper ah = new AuthorHelper();
         BookHelper bh = new BookHelper();
         Author author = new Author();
